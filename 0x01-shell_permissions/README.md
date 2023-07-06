@@ -21,3 +21,17 @@
 + A README.md file, at the root of the folder of the project, describing what each script is doing
 + You are not allowed to use backticks, &&, || or ;
 + All your files must be executable
+
+
+## **COMMANDS USED**
++ chmod
++ sudo
++ su
++ chown
++ chgrp
++ id
++ groups
++ whoami
++ adduser
++ useradd
++ addgroup
