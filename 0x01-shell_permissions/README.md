@@ -1,7 +1,7 @@
-#** 0x01-shell_permissions **
+# **0x01-shell_permissions**
 
-##Learning Objectives
-+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Learning Objectives
++ At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 ### Permissions
 + What do the commands chmod, sudo, su, chown, chgrp do
